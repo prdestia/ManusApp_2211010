@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "UAS_2211044",
-    "slug": "UAS_2211044",
+    "name": "ManusApp_2211010",
+    "slug": "ManusApp_2211010",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "pilihjahit",
+    "scheme": "ManusApp_2211010",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
